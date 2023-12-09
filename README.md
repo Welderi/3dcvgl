@@ -11,8 +11,8 @@ This project is aimed at replacing ArUco and ORB markers, both from OpenCV, with
 - [ ] **Detailed About description and Git Wiki**. Complete information on How to use and project information
 
 ## Acknowledgements
-[ArUco augmentation with an image/video](https://github.com/codegiovanni/Augmentation_Aruco_marker)
-[Blender object display](https://github.com/AshishChouhan85-zz/BLENDER-OBJECT-DISPLAY-USING-AR/tree/master)
-[Loading .obj models](https://github.com/amengede/getIntoGameDev/tree/main/pyopengl%202022/05%20-%20loading%20Obj%20Models)
-[Loading .obj models](https://github.com/totex/Learn-OpenGL-in-python/blob/master/ep15_obj_loading.py)
-[Augmented Reality using OpenCV, OpenGL and Blender](https://rdmilligan.wordpress.com/2015/10/15/augmented-reality-using-opencv-opengl-and-blender/)
++ [ArUco augmentation with an image/video](https://github.com/codegiovanni/Augmentation_Aruco_marker)
++ [Blender object display](https://github.com/AshishChouhan85-zz/BLENDER-OBJECT-DISPLAY-USING-AR/tree/master)
++ [Loading .obj models](https://github.com/amengede/getIntoGameDev/tree/main/pyopengl%202022/05%20-%20loading%20Obj%20Models)
++ [Loading .obj models](https://github.com/totex/Learn-OpenGL-in-python/blob/master/ep15_obj_loading.py)
++ [Augmented Reality using OpenCV, OpenGL and Blender](https://rdmilligan.wordpress.com/2015/10/15/augmented-reality-using-opencv-opengl-and-blender/)
